@@ -1,4 +1,5 @@
 <?php 
-	echo "Hello GIT";
+	echo "Olá Mundo";
+	echo "Traduzir testo";
 
 	?>
